@@ -1,9 +1,9 @@
-# React TypeScript Starter Pack
+[DEMO LINK](https://viktorbachynskyi.github.io/Announcement_Website/)
 
-To use this template click `Use this template`
+How to run application locally:
 
-### Available Scripts
+1.Clone the repo
 
-`Deploy` - available to deploy your application to gh-pages
+2.Run npm install to install the dependencies
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+3.Run npm start to run a development server at http://localhost:3000 (If you need to stop the server, press ctrl + c in the terminal window)
